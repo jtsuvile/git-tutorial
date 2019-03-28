@@ -4,7 +4,7 @@
 For setting up your GitHub education account, do the following:
 1. Set up your GitHub account (if you don't have one already)
   * Go to Go to https://github.com/join.
-  * Select username and password, enter your work email address
+  * Select your own username and password, use your work email address for email
   * Read Ts&Cs and Privacy Policy
   * Select the free plan ("unlimited private repositories")
 2. Apply for researcher discount
