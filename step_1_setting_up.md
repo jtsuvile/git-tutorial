@@ -1,6 +1,4 @@
-# git-tutorial
-
-## Steps to get started
+# Steps to get started
 
 1. Make sure you have a functional git installation and a command line system to go with it
 
