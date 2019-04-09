@@ -25,3 +25,6 @@
   You can find your origin address on your new repository, under the button 'clone or download'. If you have ssh keys set up, use SSH, if not, use HTTP.
   * Check your remote with `git remote -v`
   * Push your repository to _origin master_
+
+7. Advanced: Try to undo something you've done 
+One of the best reasons to use version control is that you can undo pretty much anything that you've done at any point in the history of the code. There are a few different ways to do this depending on how far you got with that change. A nice explanation can be found e.g. here https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/ . This is a nice diagram for reference https://raw.githubusercontent.com/emmajane/gitforteams/master/resources/workflow-undoing-changes.png
