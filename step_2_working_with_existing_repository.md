@@ -6,10 +6,9 @@ This is what you would do if you wanted to use and modify a set of code ('reposi
 (use the https address if you do not already have ssh keys set up)
    * take a look in the repository
    * run `git status` (inside the folder)
-   * check to see that you've got the remote repository set with `git remote -v`
 
 2. Add something  
-Once you've cloned the repository, you can start editing it! An easy first step is that you create a new text file and share it with other users. 
+Once you've cloned the repository, you can start editing it! An easy first step is that you create a new text file and add it to the repository. 
    * create a new file in the folder, name it with your name
    * `git status`
    * stage the changes with `git add .`
@@ -17,6 +16,8 @@ Once you've cloned the repository, you can start editing it! An easy first step 
    * _commit_ your change to the repository `git commit -m "added file X"`
 
 3. Share your change with others
+So far your changes have all happened on your own computer. This next bit enables you to save any changes you committed to GitHub, which will keep them backed up & you can share your progress with collaborators or lab members
+   * check to see that you've got the remote repository set with `git remote -v`
    * make sure your local version is the latest version by _pulling_ the latest version from the remote `git pull origin master`  
    * _push_ your version to the origin with `git push origin master`
    * go check the repository online to see your changes
@@ -25,6 +26,7 @@ Once you've cloned the repository, you can start editing it! An easy first step 
 4. Try editing something 
    * edit a text file someone else has created 
    * `git status`
+   * You can also try `git diff` to see the changes
    * _stage_
    * `git status`
    * _commit_, _pull_, and _push_ as above  
