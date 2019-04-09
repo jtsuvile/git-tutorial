@@ -13,6 +13,8 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com 
 ``` 
 
+## optional steps, if you are already familiar with how to use ssh keys
+
 3. Set up a key pair to access git
 
 Create a key pair on your computer, [see instructions here](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) OR you can install [GitHub Desktop](https://desktop.github.com/). (Most tutorials assume that you use command line and I will point to directions that use command line, but the underlaying logic is the same)
