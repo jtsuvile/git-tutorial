@@ -1,6 +1,6 @@
 
 1. Get a repository  
-This is what you would do if you wanted to use and modify a set of code ('repository') that someone else has created. For example, an analysis code your colleague has already written.
+This is what you would do if you wanted to use and modify a set of code ('repository') that someone else has created. For example, an analysis code your colleague has already written. I have created https://github.com/tndrg/sandbox for this use, but feel free to use any other repository you want to work with (and have permission to edit).
    * using your command line interface, navigate to the parent folder where you want to add the repository
    * _clone_ an existing repository with `git clone`  
 (use the https address if you do not already have ssh keys set up)
