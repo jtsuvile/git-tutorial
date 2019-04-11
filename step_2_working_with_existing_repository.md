@@ -33,9 +33,9 @@ So far your changes have all happened on your own computer. This next bit enable
    NB: If someone has changed the exact lines of text you have, you might get a conflict (i.e. git doesn't know if you want to keep the remote version or the local version). Ask for help or check e.g. https://swcarpentry.github.io/git-novice/09-conflict/
 
 5. Advanced: try creating a branch and editing that  
-Typically you would not go directly editing someone's code unless you're actively collaborating on it. Even then, it is a great idea to create a branch, where you can work and break things without impacting the main code. Then, once your addition is ready, you can _merge_ it (i.e. you yourself add it to the main development line) or submit a _pull request_ (i.e. you ask the owner of the code or someone else to take a look at your code and add it to the main development code).
-
-If you want to try branching, this https://coderefinery.github.io/git-intro/09-branches/ seems like a very good tutorial to follow. Instead of ingredients.txt, just do some random edits to any text file in the repository.
+Typically you would not go directly editing someone's code unless you're actively collaborating on it. Even then, it is a great idea to create a branch, where you can work and break things without impacting the main code. Then, once your addition is ready, you can _merge_ it (i.e. you yourself add it to the main development line) or submit a _pull request_ (i.e. you ask the owner of the code or someone else to take a look at your code and add it to the main development code).  
+If you want to try branching, this https://coderefinery.github.io/git-intro/09-branches/ seems like a very good tutorial to follow. Instead of ingredients.txt, just do some random edits to any text file in the repository.  
+NB: if you work on a branch, you would `git push origin [branchname]` since you want to commit the changes made to your branch, not changes made to the master (main development line)
 
 
 
