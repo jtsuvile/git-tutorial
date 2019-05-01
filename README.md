@@ -10,3 +10,5 @@ If you'd like, you can absolutely also try running through one of these example 
 * https://happygitwithr.com/
 * http://rogerdudler.github.io/git-guide/
 * http://try.github.io/
+
+Also, have a nice spring y'all!
