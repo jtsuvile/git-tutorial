@@ -5,7 +5,7 @@
 ### Install git / make sure you have git installed
 1. Windows users only 
 
-If you have not already, install a bash shell for your Windows. Preferably Ubuntu or Linux bash shell. Instructions e.g. https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/ and https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview 
+If you have not already, install a bash shell for your Windows. Preferably Ubuntu or Linux bash shell. For instructions, see for example https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/ and https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview 
 
 2. Find your command line tool
   * In Mac and other unix systems it’s called Terminal and it comes built in 
@@ -21,7 +21,7 @@ Else, you will see something like
 
 4. If you do not have git installed, install it. 
 
-You can use instructions from e.g. here https://www.atlassian.com/fi/git/tutorials/install-git . 
+You can use instructions from, for example, here https://www.atlassian.com/fi/git/tutorials/install-git . 
   * Windows users: note that you should follow the Linux instructions and carry out the installation in your bash shell
   
 5. Create a GitHub account. 
