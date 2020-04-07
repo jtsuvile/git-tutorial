@@ -13,11 +13,10 @@ This exercise is a short introduction to how you would typically use version con
 
 2. (Everyone) Create a .txt file 
   In that file, write a few lines that could be the beginning of a poem written by a kindergartener. E.g.
-  "There was a little mouse
+  "There was a little mouse / 
   Who had a little house"
 
-3. Stage the file
-  * `git add`
+3. _Stage_ and _commit_
 
 4. Share your change with others
    * check to see that you've got the remote repository set with `git remote -v`
@@ -37,7 +36,7 @@ By this point, hopefully someone else has also pushed their changes to your remo
 
 5. Advanced: try creating a branch and editing that  
 Typically you would not go directly editing someone's code unless you're actively collaborating on it. Even then, it is a great idea to create a branch, where you can work and break things without impacting the main code. Then, once your addition is ready, you can _merge_ it (i.e. you yourself add it to the main development line) or submit a _pull request_ (i.e. you ask the owner of the code or someone else to take a look at your code and add it to the main development code).  
-If you want to try branching, this https://coderefinery.github.io/git-intro/09-branches/ seems like a very good tutorial to follow. Instead of ingredients.txt, just do some random edits to any text file in the repository.  
+If you want to try branching, this https://coderefinery.github.io/git-intro/06-branches/ seems like a very good tutorial to follow. Instead of ingredients.txt, just do some random edits to any text file in the repository.  
 NB: if you work on a branch, you would `git push origin [branchname]` since you want to commit the changes made to your branch, not changes made to the master (main development line). You can also try branching in an online sandbox here https://learngitbranching.js.org/ .
 
 
