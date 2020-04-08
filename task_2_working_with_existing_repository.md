@@ -11,7 +11,7 @@ This exercise is a short introduction to how you would typically use version con
    * take a look in the repository
    * run `git status` (inside the folder)
    
-   _NB: Do not run `git init` before you `git clone` - the cloning does init too!_
+   _Please note:_ Do not run `git init` before you `git clone` - the cloning does init too! If you get error saying that git refuses to merge unrelated histories, it probably means you have run git init locally and are now trying to pull from a remote which someone else set up.
 
 2. (Everyone) Create a .txt file 
   In that file, write a few lines that could be the beginning of a poem written by a kindergartener. E.g.
