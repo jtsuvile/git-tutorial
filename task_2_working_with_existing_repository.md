@@ -10,6 +10,7 @@ This exercise is a short introduction to how you would typically use version con
 (use the https address if you do not already have ssh keys set up)
    * take a look in the repository
    * run `git status` (inside the folder)
+   _NB: Do not run `git init` before you `git clone` - the cloning does init too!_
 
 2. (Everyone) Create a .txt file 
   In that file, write a few lines that could be the beginning of a poem written by a kindergartener. E.g.
