@@ -5,7 +5,7 @@
   * type `git init`  
   * What happened? (check `ls -la`)
   
-  Tip: If you're using a Windows, your _file system root_ will be at /mnt/c/. So instead of navigating like `cd \C:\Users\<yourusername>\<yourfoldername>`, you should do `cd /mnt/c/Users/<yourusername>/<yourfoldername>`
+  Tip: If you're using Ubuntu bash on Windows, your _file system root_ will be at /mnt/c/. So instead of navigating like `cd \C:\Users\<yourusername>\<yourfoldername>`, you should do `cd /mnt/c/Users/<yourusername>/<yourfoldername>`
 
 2. Add something  
 Once you've created a repository, you can start editing it! An easy first step is that you create a new text file and add it to the repository. 
