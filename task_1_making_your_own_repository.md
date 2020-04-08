@@ -4,6 +4,7 @@
   * On the command line, go to a folder you'd like to add as a repository to GitHub or create an empty folder
   * type `git init`  
   * What happened? (check `ls -la`)
+  
   Tip: If you're using a Windows, your _file system root_ will be at /mnt/c/. So instead of navigating like `cd \C:\Users\<yourusername>\<yourfoldername>`, you should do `cd /mnt/c/Users/<yourusername>/<yourfoldername>`
 
 2. Add something  
